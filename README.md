@@ -1,8 +1,8 @@
--salut je suis Hullys Désiré 👋 Hi, I’m @Hullys31
-Je suis intéréssé par la création des sites E-commerce- 👀 I’m interested in ...
--j'apoprends actuellement le developpement frond-end  🌱 I’m currently learning ...
--Je souhaite collaborer sur les projet de conception de maquettes et d'intégration 💞️ I’m looking to collaborate on ...
-Pour me joindre vous pouvez me laisser un e-mail- 📫 How to reach me ...
+👋 Hi, I’m @Hullys31
+- 👀 I’m interested in la création des sites E-commerce
+-🌱 I’m currently learning le developpement frond-end
+-💞️ I’m looking to collaborate on les projet de conception de maquettes et d'intégration
+ 📫 How to reach un mail.
 
 <!---
 Hullys31/Hullys31 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
